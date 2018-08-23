@@ -58,7 +58,7 @@ html {
     .menu-branding .portrait {
       width: 250px;
       height: 250px;
-      background: url("../img/portrait.jpg");
+      background: url("https://res.cloudinary.com/dbrgl4f37/image/upload/v1534993920/portrait.jpg");
       border-radius: 50%;
       border: solid 3px #eece1a; }
   .menu .nav-item {
@@ -265,7 +265,7 @@ main {
     .menu-branding .portrait {
       width: 150px;
       height: 150px;
-      background: url("../img/portrait_small.png"); }
+      background: url("https://res.cloudinary.com/dbrgl4f37/image/upload/v1534993921/portrait_small.png"); }
   .about-info {
     grid-template-areas: 'bioimage' 'bio' 'job1' 'job2' 'job3';
     grid-template-columns: 1fr; }
