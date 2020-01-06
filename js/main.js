@@ -52,7 +52,7 @@ function toggleMenu() {
 
 const typed = new Typed("#myName", {
     strings: [
-        "Hello World", "My Name Adam", "I'm Web Developer", "Focus On Back-End", "Let's See My <i class='fa fa-heart' style='color:red'></i> Portfolio"
+        "Hello World", "My Name Samuel Pasaribu", "I'm Web Developer", "Focus On Back-End", "Let's See My <i class='fa fa-heart' style='color:red'></i> Portfolio"
     ],
     showCursor: true,
     typeSpeed: 120,
